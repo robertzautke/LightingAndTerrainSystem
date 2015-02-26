@@ -1,0 +1,25 @@
+FlyCam Script for viewing the world from:
+
+http://wiki.unity3d.com/index.php/FlyCam_Extended
+
+Office Floor:
+
+http://cdnm.tutorialchip.com/wp-content/uploads/2011/12/Office-Floor-Planks-520x520.jpg
+
+Office Wall:
+
+http://teacher-resource.cwahi.net/images/Textures/White_brick_2_FreeTiiuPix.com.JPG
+
+All Other Textures and Example Lamp:
+
+http://opengameart.org/
+
+
+
+
+
+
+
+
+
+
